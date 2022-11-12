@@ -1,5 +1,8 @@
 # iterative approach
 
+# Time Complexity - O(log N)
+
+
 def binary_search(array, target_ele):
     left = 0
     right = len(array) - 1
